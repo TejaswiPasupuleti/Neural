@@ -22,5 +22,5 @@ Git HUB : https://github.com/TejaswiPasupuleti/Neural/
 Assignment 5:
 
 Google Drive : https://colab.research.google.com/drive/1R_SqCRMg3Rox-zcNpuufmnyPz5inLp_C?usp=drive_link
-Video Link : 
+Video Link : https://drive.google.com/file/d/1LAcG2yLo8VTExlyNh2qxvbkU0Xg9lYPK/view?usp=drive_link
 Git Hub : https://github.com/TejaswiPasupuleti/Neural/
