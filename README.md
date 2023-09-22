@@ -24,3 +24,9 @@ Assignment 5:
 Google Drive : https://colab.research.google.com/drive/1R_SqCRMg3Rox-zcNpuufmnyPz5inLp_C?usp=drive_link
 Video Link : https://drive.google.com/file/d/1LAcG2yLo8VTExlyNh2qxvbkU0Xg9lYPK/view?usp=drive_link
 Git Hub : https://github.com/TejaswiPasupuleti/Neural/
+
+Assignment 6 : 
+
+Google drive : 
+Video Link : https://drive.google.com/file/d/1RkN3ZLkSabXFvMcFzYDf_gGlrWSsYn38/view?usp=drive_link , https://drive.google.com/file/d/1yltRYoNNxwqBr_x65Uq2gZOHZ7ADDN5P/view?usp=drive_link
+Git Hub : https://github.com/TejaswiPasupuleti/Neural/
