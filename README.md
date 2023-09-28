@@ -30,3 +30,9 @@ Assignment 6 :
 Google drive : https://drive.google.com/file/d/1RkN3ZLkSabXFvMcFzYDf_gGlrWSsYn38/view?usp=drive_link , https://drive.google.com/file/d/1yltRYoNNxwqBr_x65Uq2gZOHZ7ADDN5P/view?usp=drive_link
 Video Link : https://drive.google.com/file/d/1B3wpSgvHM9wf8aR7k9MmVoVeGGZsctNc/view?usp=drive_link
 Git Hub : https://github.com/TejaswiPasupuleti/Neural/
+
+Assignment 7 :
+
+Google drive : https://drive.google.com/file/d/1mRhunZ-cRPjy-EJfd6zX_trU7s-34bYd/view?usp=drive_link , https://drive.google.com/file/d/1_E3cYnrFbz05VYN5aZUviVRzoQcDSwpz/view?usp=drive_link
+Video Link : https://drive.google.com/file/d/16rlT61Yn-OuW6cO0bs_kiLZ7KCuQiIzg/view?usp=drive_link
+Git Hub : https://github.com/TejaswiPasupuleti/Neural/
