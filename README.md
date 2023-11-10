@@ -40,5 +40,12 @@ Git Hub : https://github.com/TejaswiPasupuleti/Neural/
 Assignment 8 :
 
 Google drive : https://drive.google.com/file/d/1plIfzMQKvH7mZNlKmX9hmL8cHRAV5qIU/view?usp=share_link
-Video Link :
+Video Link : https://drive.google.com/file/d/1plIfzMQKvH7mZNlKmX9hmL8cHRAV5qIU/view?usp=drive_link
+Git Hub : https://github.com/TejaswiPasupuleti/Neural/
+
+
+Assignment 9 :
+
+Google drive : https://drive.google.com/file/d/1plIfzMQKvH7mZNlKmX9hmL8cHRAV5qIU/view?usp=drive_link
+Video Link : https://drive.google.com/file/d/1vgsqKPqDHs7spcpjbo3OabYkPOmwleqV/view?usp=drive_link
 Git Hub : https://github.com/TejaswiPasupuleti/Neural/
